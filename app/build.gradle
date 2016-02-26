@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+
+}
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.cfun.proxy"
+        minSdkVersion 16
+        targetSdkVersion 21
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+}

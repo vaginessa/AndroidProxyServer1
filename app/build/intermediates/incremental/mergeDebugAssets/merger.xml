@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/assets"><file name="tar.zip" path="/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/assets/tar.zip"/><file name="wall.sh" path="/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/assets/wall.sh"/></source></dataSet><dataSet config="debug"><source path="/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/debug/assets"/></dataSet></merger>

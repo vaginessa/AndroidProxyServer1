@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:background="@color/menuBack"
+            android:addStatesFromChildren="true" android:alpha="0.9">
+        <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_selector"
+                android:onClick="onAppSetting">
+            <TextView android:layout_width="fill_parent" android:layout_height="40dp" android:text="@string/menu_set"
+                      android:textSize="26sp" android:gravity="center"
+                      android:textIsSelectable="false" android:textColor="@color/menuTextColor"/>
+        </FrameLayout>
+        <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp" android:background="@color/menu_splitLine">
+        </View>
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_selector"
+                android:onClick="onModelSetting">
+            <TextView android:layout_width="fill_parent" android:layout_height="40dp" android:text="@string/menu_edit"
+                      android:textSize="26sp" android:gravity="center"
+                      android:textIsSelectable="false" android:textColor="@color/menuTextColor"/>
+        </FrameLayout>
+        <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp" android:background="@color/menu_splitLine">
+        </View>
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onAbout"
+                android:background="@drawable/menu_selector">
+            <TextView android:layout_width="fill_parent" android:layout_height="40dp" android:text="@string/menu_about"
+                      android:textSize="26sp" android:gravity="center"
+                      android:id="@+id/textView"
+                      android:textIsSelectable="false" android:textColor="@color/menuTextColor"/>
+        </FrameLayout>
+
+    </LinearLayout>
+</FrameLayout>

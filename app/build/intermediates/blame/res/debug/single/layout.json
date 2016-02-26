@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/layout/setting_activity.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/layout/setting_activity.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/layout/apps_list_item.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/layout/apps_list_item.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/layout/action_bar.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/layout/action_bar.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/layout/processbar.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/layout/processbar.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/layout/apps_list.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/layout/apps_list.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable-hdpi/bg.png"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ra_press.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable-hdpi/ra_press.png"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ra_check.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable-hdpi/ra_check.png"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_bar_menu.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable-hdpi/ic_action_bar_menu.png"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ra_uncheck.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable-hdpi/ra_uncheck.png"
+    }
+]

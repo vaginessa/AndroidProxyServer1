@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ch_check.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable-xhdpi/ch_check.png"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ch_uncheck.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable-xhdpi/ch_uncheck.png"
+    }
+]

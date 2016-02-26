@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/loading.png",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/loading.png"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/checkbox.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/checkbox.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/menu_selector.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/menu_selector.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/my_progress_style.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/my_progress_style.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/bg_action_bar_btn.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/bg_action_bar_btn.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/button_back.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/button_back.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/progress.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/progress.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/drawable/radio.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/drawable/radio.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/xml/app_config.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/xml/app_config.xml"
+    },
+    {
+        "merged": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/build/intermediates/res/merged/debug/xml/model_config.xml",
+        "source": "/home/qin/studyres/MyCodes/AndroidProxyServer1/app/src/main/res/xml/model_config.xml"
+    }
+]
